@@ -1,2 +1,2 @@
-"node_modules/" 
-"node_modules/"
+# Standard Node.js ignore rules
+node_modules/
